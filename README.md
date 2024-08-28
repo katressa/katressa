@@ -73,7 +73,7 @@ My journey as a cybersecurity specialist has led me to continue my passion for c
   - [Active Directory Bulk User Creation](https://github.com/katressa/ActiveDirectoryLab)
 - <b>BASH</b>
   - [Splunk Services on RHEL Platform](https://github)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/)
+
  
 <h2>🤳 Let's Connect:</h2>
 
