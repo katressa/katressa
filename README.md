@@ -5,11 +5,11 @@
 
 I am a longtime Cybersecurity Professional with a profound interest in technology and a leader that is dedicated to solving complex problems.
 
-## Objective
+## OBJECTIVE
 
 My journey as a cybersecurity specialist has led me to continue my passion for cybersecurity, and I am now eager to transition expertise specifically aiming to joinind a team that performs activities supporting the business.
 
-## Skills
+## SKILLS
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
@@ -20,8 +20,7 @@ My journey as a cybersecurity specialist has led me to continue my passion for c
 | Deploying a MFA Environment                     | SOC Automation Lab|
 | Scripting to Manage a Logging Infrastructure    | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## TOOLS
 
 ### Network
 <div>
@@ -30,19 +29,24 @@ My journey as a cybersecurity specialist has led me to continue my passion for c
     <img src="https://img.shields.io/badge/-Panorama-FFA500?&style=for-the-badge&logo=Panorama&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Trellix ePO-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tenable Nessus-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-008000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-ArcSight-FF0000?&style=for-the-badge&logo=MicroFocus&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cribl-008080?&style=for-the-badge&logo=Cribl&logoColor=white" /></div>
 
-## Certifications
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Trellix ePO-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tenable Nessus-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+</div>
+
+## CERTIFICATIONS
 
 - [CISM Certified Information Security Manager](https://www.credly.com/badges/adf0c5c7-640a-428e-95b1-073fe20271f9/public_url)
 - [Business Leadership McKinsey Academy](https://www.credly.com/badges/06eeabc1-a39b-4ed9-80d0-0edb6ff39bd1/public_url)
@@ -50,7 +54,7 @@ My journey as a cybersecurity specialist has led me to continue my passion for c
 - [Team Leadership McKinsey Academy](https://www.credly.com/badges/ec57e60d-40c7-489f-85d8-ce9ee5f8a754/public_url)
 - [Self Leadership McKinsey Academy](https://www.credly.com/badges/90843aa2-e788-4b06-9a96-aecf632a751d/public_url)</div>
 
-## Projects
+## RROJECTS
 <h2>🛡️ Cybersecurity:</h2>
 
 - <b>Administering an RSA SecureID Platform</b>
