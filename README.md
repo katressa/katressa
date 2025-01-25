@@ -14,8 +14,8 @@ My journey as a cybersecurity specialist has led me to continue my passion for c
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Web Scraping Exercise                           | <a href="https://github.com/katressa/web_Scraping"></a>|
-| Data Cleaning                                   | <a href="https://github.com/katressa/data_Cleaning 101"></a>|
+| Web Scraping Exercise                           | <a href="https://github.com/katressa/Web-Scraping"></a>|
+| Data Cleaning                                   | <a href="https://github.com/katressa/Data=Cleaning"></a>|
 | Active Directory Administration                 | <a href="https://github.com/katressa/ActiveDirectoryLab">Bulk User Creation</a>|
 | Deploying a MFA Environment                     | SOC Automation Lab
 | My Journey learning how to Code                 | <a href="https://github.com/katressa/my_Journey">Learning how to code:</a>|
