@@ -14,11 +14,11 @@ My journey as a cybersecurity specialist has led me to continue my passion for c
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Web Scraping Exercise                           | <a href="https://github.com/katressa/web_Scraping"></a>|
+| Data Cleaning                                   | <a href="https://github.com/katressa/data_Cleaning 101"></a>|
 | Active Directory Administration                 | <a href="https://github.com/katressa/ActiveDirectoryLab">Bulk User Creation</a>|
-| Deploying a MFA Environment                     | SOC Automation Lab|
-| Scripting to Manage a Logging Infrastructure    | SOC Automation Lab|
+| Deploying a MFA Environment                     | SOC Automation Lab
+| My Journey learning how to Code                 | <a href="https://github.com/katressa/my_Journey">Learning how to code:</a>|
 
 ## TOOLS
 
