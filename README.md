@@ -3,11 +3,11 @@
 <a href="https://github.com/katressa/katressa-portfolio/blob/main/KC%20Resume.pdf"><img src="https://img.shields.io/badge/-Resume-A020F0?&style=for-the-badge&logo=resume.io&logoColor=white" /></a>
 
 
-I am a longtime Cybersecurity Professional with a profound interest in technology and a leader that is dedicated to solving complex problems.
+I am a longtime Cybersecurity Professional with a profound interest in technology and a leader/team player that is dedicated to solving complex problems. Although I've been working in IT/OT environments for much of my career, I am looking to use my Domain Expertise to becoming a data analysis. I belive that with so much information around us, the real key to nextGEN AI and ML is understanding the data.
 
 ## OBJECTIVE
 
-My journey as a cybersecurity specialist has led me to continue my passion for cybersecurity, and I am now eager to transition expertise specifically aiming to joinind a team that performs activities supporting the business.
+My journey as a cybersecurity specialist has led me to continue my passion for cybersecurity, and I am now eager to transition expertise specifically aiming to joining a team that performs activities supporting the business while performing information gain.
 
 ## SKILLS
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
