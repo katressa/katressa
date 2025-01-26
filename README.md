@@ -35,10 +35,11 @@ My journey as a cybersecurity specialist has led me to continue my passion for c
     <img src="https://img.shields.io/badge/-ArcSight-FF0000?&style=for-the-badge&logo=MicroFocus&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cribl-008080?&style=for-the-badge&logo=Cribl&logoColor=white" /></div>
 
-### Endpoint
+### Vulnerability Management
 <div>
     <img src="https://img.shields.io/badge/-Trellix ePO-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tenable Nessus-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tenable.io, .sc, ot-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus Scanners-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### Cloud
