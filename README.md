@@ -1,6 +1,6 @@
 # Hello, I'm Katressa!
 <a href="https://linkedin.com/in/katressacooper-cism"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/katressa/katressa-portfolio/blob/main/KC%20Resume.pdf"><img src="https://img.shields.io/badge/-Resume-A020F0?&style=for-the-badge&logo=resume.io&logoColor=white" /></a>
+<a href="https://github.com/katressa/katressa-portfolio/blob/main/Katressa%20Cooper%20Resume.pdf"><img src="https://img.shields.io/badge/-Resume-A020F0?&style=for-the-badge&logo=resume.io&logoColor=white" /></a>
 
 
 I am a longtime Cybersecurity Professional with a profound interest in technology and a leader/team player that is dedicated to solving complex problems. Although I've been working in IT/OT environments for much of my career, I am looking to use my Domain Expertise to becoming a data analysis. I belive that with so much information around us, the real key to nextGEN AI and ML is understanding the data.
