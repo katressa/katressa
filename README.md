@@ -18,7 +18,7 @@ My journey as a cybersecurity specialist has led me to continue my passion for c
 | Data Cleaning                                   | <a href="https://github.com/katressa/Data-Cleaning">data_Cleaning w/ python</a>|
 | Active Directory Administration                 | <a href="https://github.com/katressa/ActiveDirectoryLab">Bulk User Creation</a>|
 | Deploying a MFA Environment                     | SOC Automation Lab
-| My Journey learning how to Code                 | <a href="https://github.com/katressa/My-Journey">Learning how to code:</a>|
+| My Journey learning how to Code                 | <a href="https://github.com/katressa/My-Journey">Python Fundamentals:</a>|
 
 ## TOOLS
 
