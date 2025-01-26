@@ -9,7 +9,7 @@ I am a longtime Cybersecurity Professional with a profound interest in technolog
 
 My journey as a cybersecurity specialist has led me to continue my passion for cybersecurity, and I am now eager to transition expertise specifically aiming to joining a team that performs activities supporting the business while performing information gain.
 
-## SKILLS
+## PROJECTS
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
@@ -54,26 +54,6 @@ My journey as a cybersecurity specialist has led me to continue my passion for c
 - [Leadership Essentials McKinsey Academy](https://www.credly.com/badges/9ec22a26-6f63-4e85-9bf7-d4668763b400/public_url)
 - [Team Leadership McKinsey Academy](https://www.credly.com/badges/ec57e60d-40c7-489f-85d8-ce9ee5f8a754/public_url)
 - [Self Leadership McKinsey Academy](https://www.credly.com/badges/90843aa2-e788-4b06-9a96-aecf632a751d/public_url)</div>
-
-## RROJECTS
-<h2>🛡️ Cybersecurity:</h2>
-
-- <b>Administering an RSA SecureID Platform</b>
-  - [Deploying an (AM) Authentication Manager](https://github.com/)
-  - [Bringing up a self service console for redundacy](https://github)
-- <b>Deploying Splunk UF and HF</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Tenable Agent deployment in AWS</b>
-  - [Active Directory Bulk User Creation](https://github.com/katressa/ActiveDirectoryLab)
-  - [FIM (File Integrity Monitor)](https://github.com/)
-  
-<h2>👨‍💻 Automation/Scripting:</h2>
-
-- <b>PowerShell</b>
-  - [Monitor ePO agents in IL6 with Windows EventLog](https://github.com/katressa/ePO-TrellixAgentLab)
-  - [Active Directory Bulk User Creation](https://github.com/katressa/ActiveDirectoryLab)
-- <b>BASH</b>
-  - [Splunk Services on RHEL Platform](https://github)
 
  
 <h2>🤳 Let's Connect:</h2>
